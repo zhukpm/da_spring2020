@@ -17,3 +17,6 @@
 secret_folder/
 
 hw_submissions/
+
+# Windows temp files
+~*
